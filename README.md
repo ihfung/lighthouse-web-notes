@@ -8,3 +8,7 @@ This repository contains all of the notes taken by [Ivan](https://github.com/ihf
 
 ###### This is an H6 header (smallest)
 
+## Table of Contents
+
+- [Week 1](/Week_1)
+  - [Day 1](/Week_1/Day_1)
